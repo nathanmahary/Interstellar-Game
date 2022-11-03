@@ -1,8 +1,3 @@
-// CSCI 1300 Spring 2022
-// Author: Nathan Mahary and Robiel Kennedy
-// Nathan Recitation: 205 – Alex Ray
-// Robiel Recitation: 204 - Varsha Srikanth Koushik
-// Project 3
 #include <iostream>
 #include "Inventory.h"
 #include "resources.h"
