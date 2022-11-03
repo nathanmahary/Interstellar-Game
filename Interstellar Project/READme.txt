@@ -9,11 +9,7 @@ DEPENDENCIES
 Map.h inventory.h planets.h player.h and resources.h must be in the same directory as the .cpp files in the Project 3 folder in 
 order to compile.
 ------------------------
-SUBMISSION INFORMATION
-------------------------
-CSCI1300 Spring 2022 Project 3
 Author: Nathan Mahary and Robiel Kennedy
-Recitation: Nathan Maharay(205- Alex Ray) , Robiel Kennedy(204 - Varsha Srikanth Koushik)
 Date: April 21st, 2022
 ------------------------
 ABOUT THIS PROJECT
