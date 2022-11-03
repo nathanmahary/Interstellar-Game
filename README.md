@@ -1,1 +1,6 @@
 # Interstellar-Game
+The point of the game was to make a menu and planet map where the user is able to choose where to move on the map and when ever they move, they might encounter a site, or an alien. A site has different materials that could then be added to the users log which could then help them know if the planet is habitable or not. When they encounter an Alien they have to play rock paper scissors. If the user wins, the Alien will give them info to help know if the planet is habitable or not. If the user loses, health is deducted from the users health bar. Every time they move from planet to planet, it takes a certain amount of gas away from the total amount where they can also check in the log. The log is used like a note pad for all the things they found and the levels of health, gas and money. The user starts with a certain amount of money that they are able to use to go to the resource store to buy things like more gas and weapons which is all accessible through the main menu. At the end of the scavenger, the user can exit the game anytime or can choose to move to another planet with a new map and new sites.
+
+​
+
+This project was coded in C++ and used multiple skills. Those of which are: Making Classes, Using Arrays, using basic C++, using functions, switch statements and many more.
